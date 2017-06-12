@@ -7,9 +7,9 @@ Needed Features:
 - [ ] Set entities, rather do database modelling (Jon, needed skills, programming language)
 - [ ] Build clickable prototype
 
+## Example: SENIOR DEVELOPER JAVASCRIPT
+- Gute Kenntnisse in testgetriebener Entwicklung, Continuous  Integration, Continuous Deployment, Testautomation und verteilter  Versionskontrolle 
+- Sehr gute Kenntnisse in einer aktuellen ECMAScript - Version, HTML5  und CSS sowie Produktkenntnisse au s dem Umfeld von Frameworks  und Bibliotheken wie AngularJS, React, nodeJS, RxJS, oder ExtJS
+- Erfahrung mit npm und anderen Buildtools sowie Testgetriebener  Entwicklung zum Beispiel mit Karma, Sinon.JS oder Jasmine und  Kenntnisse in aktuellen Technologien wi e Angular2, Babel, TypeScript  oder Elm sind ein Plus
 
-# Example: SENIOR DEVELOPER JAVASCRIPT
-
-• Gute Kenntnisse in testgetriebener Entwicklung, Continuous  Integration, Continuous Deployment, Testautomation und verteilter  Versionskontrolle 
-• Sehr gute Kenntnisse in einer aktuellen ECMAScript - Version, HTML5  und CSS sowie Produktkenntnisse au s dem Umfeld von Frameworks  und Bibliotheken wie AngularJS, React, nodeJS, RxJS, oder ExtJS
-• Erfahrung mit npm und anderen Buildtools sowie Testgetriebener  Entwicklung zum Beispiel mit Karma, Sinon.JS oder Jasmine und  Kenntnisse in aktuellen Technologien wi e Angular2, Babel, TypeScript  oder Elm sind ein Plus
+(source: https://www.codecentric.de/files/2015/08/Senior-Developer-JavaScript.pdf)
